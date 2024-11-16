@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10CED9E5-1113-4653-AB88-838197A857C5}|fINALPROJECTDATA\\fINALPROJECTDATA.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalprojectdata\\signup_repository\\signuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CED9E5-1113-4653-AB88-838197A857C5}|fINALPROJECTDATA\\fINALPROJECTDATA.csproj|solutionrelative:finalprojectdata\\signup_repository\\signuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CED9E5-1113-4653-AB88-838197A857C5}|fINALPROJECTDATA\\fINALPROJECTDATA.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalprojectdata\\signup_repository\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CED9E5-1113-4653-AB88-838197A857C5}|fINALPROJECTDATA\\fINALPROJECTDATA.csproj|solutionrelative:finalprojectdata\\signup_repository\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA2699C-29CC-4AE0-90F6-422293ACEB5F}|fINALPROJECT\\fINALPROJECT.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalproject\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA2699C-29CC-4AE0-90F6-422293ACEB5F}|fINALPROJECT\\fINALPROJECT.csproj|solutionrelative:finalproject\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalprojectcore\\signup_interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|solutionrelative:finalprojectcore\\signup_interface\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalprojectcore\\signup_model\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|solutionrelative:finalprojectcore\\signup_model\\mailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA2699C-29CC-4AE0-90F6-422293ACEB5F}|fINALPROJECT\\fINALPROJECT.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalproject\\controllers\\plantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA2699C-29CC-4AE0-90F6-422293ACEB5F}|fINALPROJECT\\fINALPROJECT.csproj|solutionrelative:finalproject\\controllers\\plantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA2699C-29CC-4AE0-90F6-422293ACEB5F}|fINALPROJECT\\fINALPROJECT.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BA2699C-29CC-4AE0-90F6-422293ACEB5F}|fINALPROJECT\\fINALPROJECT.csproj|solutionrelative:finalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalprojectcore\\signup_model\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|solutionrelative:finalprojectcore\\signup_model\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA2699C-29CC-4AE0-90F6-422293ACEB5F}|fINALPROJECT\\fINALPROJECT.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA2699C-29CC-4AE0-90F6-422293ACEB5F}|fINALPROJECT\\fINALPROJECT.csproj|solutionrelative:finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalprojectcore\\plant_interface\\iplantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|solutionrelative:finalprojectcore\\plant_interface\\iplantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalprojectcore\\plant_model\\plantmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|solutionrelative:finalprojectcore\\plant_model\\plantmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CED9E5-1113-4653-AB88-838197A857C5}|fINALPROJECTDATA\\fINALPROJECTDATA.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalprojectdata\\plant_repository\\plantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CED9E5-1113-4653-AB88-838197A857C5}|fINALPROJECTDATA\\fINALPROJECTDATA.csproj|solutionrelative:finalprojectdata\\plant_repository\\plantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalprojectcore\\signup_interface\\isignuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|solutionrelative:finalprojectcore\\signup_interface\\isignuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CED9E5-1113-4653-AB88-838197A857C5}|fINALPROJECTDATA\\fINALPROJECTDATA.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalprojectdata\\country_repository\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CED9E5-1113-4653-AB88-838197A857C5}|fINALPROJECTDATA\\fINALPROJECTDATA.csproj|solutionrelative:finalprojectdata\\country_repository\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA2699C-29CC-4AE0-90F6-422293ACEB5F}|fINALPROJECT\\fINALPROJECT.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalproject\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA2699C-29CC-4AE0-90F6-422293ACEB5F}|fINALPROJECT\\fINALPROJECT.csproj|solutionrelative:finalproject\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalprojectcore\\country_interface\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|solutionrelative:finalprojectcore\\country_interface\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalprojectcore\\countries\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|solutionrelative:finalprojectcore\\countries\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CED9E5-1113-4653-AB88-838197A857C5}|fINALPROJECTDATA\\fINALPROJECTDATA.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalprojectdata\\country_repository\\statesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CED9E5-1113-4653-AB88-838197A857C5}|fINALPROJECTDATA\\fINALPROJECTDATA.csproj|solutionrelative:finalprojectdata\\country_repository\\statesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalprojectcore\\country_interface\\icountriyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|solutionrelative:finalprojectcore\\country_interface\\icountriyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalprojectcore\\countries\\states.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|solutionrelative:finalprojectcore\\countries\\states.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10CED9E5-1113-4653-AB88-838197A857C5}|fINALPROJECTDATA\\fINALPROJECTDATA.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalprojectdata\\country_repository\\countriyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10CED9E5-1113-4653-AB88-838197A857C5}|fINALPROJECTDATA\\fINALPROJECTDATA.csproj|solutionrelative:finalprojectdata\\country_repository\\countriyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalprojectcore\\countries\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95947106-5F7E-4795-8502-C3DC307FE283}|fINALPROJECTCORE\\fINALPROJECTCORE.csproj|solutionrelative:finalprojectcore\\countries\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA2699C-29CC-4AE0-90F6-422293ACEB5F}|fINALPROJECT\\fINALPROJECT.csproj|c:\\users\\user\\source\\repos\\plant management\\finalproject\\finalproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BA2699C-29CC-4AE0-90F6-422293ACEB5F}|fINALPROJECT\\fINALPROJECT.csproj|solutionrelative:finalproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlantController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECT\\Controllers\\PlantController.cs",
+              "RelativeDocumentMoniker": "fINALPROJECT\\Controllers\\PlantController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECT\\Controllers\\PlantController.cs",
+              "RelativeToolTip": "fINALPROJECT\\Controllers\\PlantController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:08.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUpController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECT\\Controllers\\SignUpController.cs",
+              "RelativeDocumentMoniker": "fINALPROJECT\\Controllers\\SignUpController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECT\\Controllers\\SignUpController.cs",
+              "RelativeToolTip": "fINALPROJECT\\Controllers\\SignUpController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwCoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:08.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Signup_Interface\\IEmailService.cs",
+              "RelativeDocumentMoniker": "fINALPROJECTCORE\\Signup_Interface\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Signup_Interface\\IEmailService.cs",
+              "RelativeToolTip": "fINALPROJECTCORE\\Signup_Interface\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:08.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECT\\appsettings.json",
+              "RelativeDocumentMoniker": "fINALPROJECT\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECT\\appsettings.json",
+              "RelativeToolTip": "fINALPROJECT\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T14:37:08.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTDATA\\Signup_Repository\\EmailService.cs",
+              "RelativeDocumentMoniker": "fINALPROJECTDATA\\Signup_Repository\\EmailService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTDATA\\Signup_Repository\\EmailService.cs",
+              "RelativeToolTip": "fINALPROJECTDATA\\Signup_Repository\\EmailService.cs",
+              "ViewState": "AQIAABcAAADAyMzMzMwvwCcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:08.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECT\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "fINALPROJECT\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECT\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "fINALPROJECT\\Controllers\\CountryController.cs",
+              "ViewState": "AQIAABgAAADAmJmZmZkdwCcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:08.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPlantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Plant_Interface\\IPlantRepository.cs",
+              "RelativeDocumentMoniker": "fINALPROJECTCORE\\Plant_Interface\\IPlantRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Plant_Interface\\IPlantRepository.cs",
+              "RelativeToolTip": "fINALPROJECTCORE\\Plant_Interface\\IPlantRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:08.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Signup_Model\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "fINALPROJECTCORE\\Signup_Model\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Signup_Model\\EmailSettings.cs",
+              "RelativeToolTip": "fINALPROJECTCORE\\Signup_Model\\EmailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:08.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MailRequest.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Signup_Model\\MailRequest.cs",
+              "RelativeDocumentMoniker": "fINALPROJECTCORE\\Signup_Model\\MailRequest.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Signup_Model\\MailRequest.cs",
+              "RelativeToolTip": "fINALPROJECTCORE\\Signup_Model\\MailRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:08.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUpRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTDATA\\Signup_Repository\\SignUpRepository.cs",
+              "RelativeDocumentMoniker": "fINALPROJECTDATA\\Signup_Repository\\SignUpRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTDATA\\Signup_Repository\\SignUpRepository.cs",
+              "RelativeToolTip": "fINALPROJECTDATA\\Signup_Repository\\SignUpRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:08.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECT\\Program.cs",
+              "RelativeDocumentMoniker": "fINALPROJECT\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECT\\Program.cs",
+              "RelativeToolTip": "fINALPROJECT\\Program.cs",
+              "ViewState": "AQIAAA8AAAAg0czMzMwiwBoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:07.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlantModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Plant_Model\\PlantModel.cs",
+              "RelativeDocumentMoniker": "fINALPROJECTCORE\\Plant_Model\\PlantModel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Plant_Model\\PlantModel.cs",
+              "RelativeToolTip": "fINALPROJECTCORE\\Plant_Model\\PlantModel.cs",
+              "ViewState": "AQIAAAoAAAAAy8zMzMwvwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:08.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISignUpRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Signup_Interface\\ISignUpRepository.cs",
+              "RelativeDocumentMoniker": "fINALPROJECTCORE\\Signup_Interface\\ISignUpRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Signup_Interface\\ISignUpRepository.cs",
+              "RelativeToolTip": "fINALPROJECTCORE\\Signup_Interface\\ISignUpRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:08.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTDATA\\Plant_Repository\\PlantRepository.cs",
+              "RelativeDocumentMoniker": "fINALPROJECTDATA\\Plant_Repository\\PlantRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTDATA\\Plant_Repository\\PlantRepository.cs",
+              "RelativeToolTip": "fINALPROJECTDATA\\Plant_Repository\\PlantRepository.cs",
+              "ViewState": "AQIAAAEAAAAgmZmZmZkuwBQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:08.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTDATA\\Country_Repository\\CityRepository.cs",
+              "RelativeDocumentMoniker": "fINALPROJECTDATA\\Country_Repository\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTDATA\\Country_Repository\\CityRepository.cs",
+              "RelativeToolTip": "fINALPROJECTDATA\\Country_Repository\\CityRepository.cs",
+              "ViewState": "AQIAAAQAAACQMDMzMzP7vxMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:08.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StatesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTDATA\\Country_Repository\\StatesRepository.cs",
+              "RelativeDocumentMoniker": "fINALPROJECTDATA\\Country_Repository\\StatesRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTDATA\\Country_Repository\\StatesRepository.cs",
+              "RelativeToolTip": "fINALPROJECTDATA\\Country_Repository\\StatesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:08.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Countries\\City.cs",
+              "RelativeDocumentMoniker": "fINALPROJECTCORE\\Countries\\City.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Countries\\City.cs",
+              "RelativeToolTip": "fINALPROJECTCORE\\Countries\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:08.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Country_Interface\\ICityRepository.cs",
+              "RelativeDocumentMoniker": "fINALPROJECTCORE\\Country_Interface\\ICityRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Country_Interface\\ICityRepository.cs",
+              "RelativeToolTip": "fINALPROJECTCORE\\Country_Interface\\ICityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:08.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "States.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Countries\\States.cs",
+              "RelativeDocumentMoniker": "fINALPROJECTCORE\\Countries\\States.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Countries\\States.cs",
+              "RelativeToolTip": "fINALPROJECTCORE\\Countries\\States.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:08.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CountriyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTDATA\\Country_Repository\\CountriyRepository.cs",
+              "RelativeDocumentMoniker": "fINALPROJECTDATA\\Country_Repository\\CountriyRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTDATA\\Country_Repository\\CountriyRepository.cs",
+              "RelativeToolTip": "fINALPROJECTDATA\\Country_Repository\\CountriyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:08.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICountriyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Country_Interface\\ICountriyRepository.cs",
+              "RelativeDocumentMoniker": "fINALPROJECTCORE\\Country_Interface\\ICountriyRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Country_Interface\\ICountriyRepository.cs",
+              "RelativeToolTip": "fINALPROJECTCORE\\Country_Interface\\ICountriyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:08.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Countries\\Country.cs",
+              "RelativeDocumentMoniker": "fINALPROJECTCORE\\Countries\\Country.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECTCORE\\Countries\\Country.cs",
+              "RelativeToolTip": "fINALPROJECTCORE\\Countries\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:37:08.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECT\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "fINALPROJECT\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Plant management\\fINALPROJECT\\fINALPROJECT\\Properties\\launchSettings.json",
+              "RelativeToolTip": "fINALPROJECT\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T14:37:08.098Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

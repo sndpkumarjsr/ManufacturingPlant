@@ -1,0 +1,15 @@
+C:\Users\TP_USER\OneDrive - Talentpace\Final_Project\fINALPROJECT\fINALPROJECTDATA\bin\Debug\net6.0\fINALPROJECTDATA.deps.json
+C:\Users\TP_USER\OneDrive - Talentpace\Final_Project\fINALPROJECT\fINALPROJECTDATA\bin\Debug\net6.0\fINALPROJECTDATA.dll
+C:\Users\TP_USER\OneDrive - Talentpace\Final_Project\fINALPROJECT\fINALPROJECTDATA\bin\Debug\net6.0\fINALPROJECTDATA.pdb
+C:\Users\TP_USER\OneDrive - Talentpace\Final_Project\fINALPROJECT\fINALPROJECTDATA\bin\Debug\net6.0\fINALPROJECTCORE.dll
+C:\Users\TP_USER\OneDrive - Talentpace\Final_Project\fINALPROJECT\fINALPROJECTDATA\bin\Debug\net6.0\fINALPROJECTCORE.pdb
+C:\Users\TP_USER\OneDrive - Talentpace\Final_Project\fINALPROJECT\fINALPROJECTDATA\obj\Debug\net6.0\fINALPROJECTDATA.csproj.AssemblyReference.cache
+C:\Users\TP_USER\OneDrive - Talentpace\Final_Project\fINALPROJECT\fINALPROJECTDATA\obj\Debug\net6.0\fINALPROJECTDATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TP_USER\OneDrive - Talentpace\Final_Project\fINALPROJECT\fINALPROJECTDATA\obj\Debug\net6.0\fINALPROJECTDATA.AssemblyInfoInputs.cache
+C:\Users\TP_USER\OneDrive - Talentpace\Final_Project\fINALPROJECT\fINALPROJECTDATA\obj\Debug\net6.0\fINALPROJECTDATA.AssemblyInfo.cs
+C:\Users\TP_USER\OneDrive - Talentpace\Final_Project\fINALPROJECT\fINALPROJECTDATA\obj\Debug\net6.0\fINALPROJECTDATA.csproj.CoreCompileInputs.cache
+C:\Users\TP_USER\OneDrive - Talentpace\Final_Project\fINALPROJECT\fINALPROJECTDATA\obj\Debug\net6.0\fINALPROJECTDATA.csproj.CopyComplete
+C:\Users\TP_USER\OneDrive - Talentpace\Final_Project\fINALPROJECT\fINALPROJECTDATA\obj\Debug\net6.0\fINALPROJECTDATA.dll
+C:\Users\TP_USER\OneDrive - Talentpace\Final_Project\fINALPROJECT\fINALPROJECTDATA\obj\Debug\net6.0\refint\fINALPROJECTDATA.dll
+C:\Users\TP_USER\OneDrive - Talentpace\Final_Project\fINALPROJECT\fINALPROJECTDATA\obj\Debug\net6.0\fINALPROJECTDATA.pdb
+C:\Users\TP_USER\OneDrive - Talentpace\Final_Project\fINALPROJECT\fINALPROJECTDATA\obj\Debug\net6.0\ref\fINALPROJECTDATA.dll
